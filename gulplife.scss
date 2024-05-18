@@ -1,17 +1,17 @@
-project-root/
+project/
 │
 ├── src/
-│   ├── scss/
-│   │   └── style.scss
-│   ├── js/
-│   │   └── script.js
-│   └── images/
-│       └── (c:\Users\User\Downloads\nature-3112997_1280 (2).jpg)
+│   ├── sass/
+│   │   └── main.scss
+│   ├── images/
+│   │   └── your-images-here
+│   └── js/
+│       └── script.js
 │
 ├── dist/
 │   ├── css/
-│   ├── js/
-│   └── images/
+│   ├── images/
+│   └── js/
 │
-├── gulpfile.js
+├── Gulpfile.js
 └── package.json
